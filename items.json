@@ -87,7 +87,18 @@
       "Winter"
     ],
     "icon": "icon_item_2101",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 1,
+      "attack": 2,
+      "durability": 300,
+      "tool_level": 1,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "9",
+      "dpa": "3--5--22",
+      "categories": 3
+    }
   },
   {
     "id": 2102,
@@ -105,7 +116,18 @@
       "Winter"
     ],
     "icon": "icon_item_2102",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 2,
+      "attack": 7,
+      "durability": 300,
+      "tool_level": 2,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 3
+    }
   },
   {
     "id": 2103,
@@ -123,7 +145,18 @@
       "Winter"
     ],
     "icon": "icon_item_2103",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 1,
+      "attack": 5,
+      "durability": 100,
+      "tool_level": 1,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 3
+    }
   },
   {
     "id": 2104,
@@ -141,7 +174,18 @@
       "Winter"
     ],
     "icon": "icon_item_2104",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 1,
+      "attack": 6,
+      "durability": 300,
+      "tool_level": 1,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 1
+    }
   },
   {
     "id": 2105,
@@ -159,7 +203,18 @@
       "Winter"
     ],
     "icon": "icon_item_2105",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 2,
+      "attack": 12,
+      "durability": 300,
+      "tool_level": 2,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 1
+    }
   },
   {
     "id": 2106,
@@ -177,7 +232,18 @@
       "Winter"
     ],
     "icon": "icon_item_2106",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 2,
+      "attack": 7,
+      "durability": 500,
+      "tool_level": 2,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 1
+    }
   },
   {
     "id": 2107,
@@ -195,7 +261,18 @@
       "Winter"
     ],
     "icon": "icon_item_2107",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 4,
+      "attack": 30,
+      "durability": 500,
+      "tool_level": 3,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 7
+    }
   },
   {
     "id": 2108,
@@ -213,7 +290,18 @@
       "Winter"
     ],
     "icon": "icon_item_34xx",
-    "hidden": true
+    "hidden": true,
+    "weapon": {
+      "level": 3,
+      "attack": 21,
+      "durability": 300,
+      "tool_level": 3,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 1
+    }
   },
   {
     "id": 2109,
@@ -231,7 +319,18 @@
       "Winter"
     ],
     "icon": "icon_item_34xx",
-    "hidden": true
+    "hidden": true,
+    "weapon": {
+      "level": 3,
+      "attack": 21,
+      "durability": 300,
+      "tool_level": 3,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 1
+    }
   },
   {
     "id": 2110,
@@ -249,7 +348,18 @@
       "Winter"
     ],
     "icon": "icon_item_34xx",
-    "hidden": true
+    "hidden": true,
+    "weapon": {
+      "level": 3,
+      "attack": 21,
+      "durability": 300,
+      "tool_level": 3,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 1
+    }
   },
   {
     "id": 2111,
@@ -267,7 +377,18 @@
       "Winter"
     ],
     "icon": "icon_item_2111",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 0,
+      "attack": 1,
+      "durability": 200,
+      "tool_level": 0,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 5
+    }
   },
   {
     "id": 2113,
@@ -285,7 +406,18 @@
       "Winter"
     ],
     "icon": "icon_item_2113",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 3,
+      "attack": 18,
+      "durability": 500,
+      "tool_level": 3,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 1
+    }
   },
   {
     "id": 2114,
@@ -303,7 +435,18 @@
       "Winter"
     ],
     "icon": "icon_item_2114",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 7,
+      "attack": 60,
+      "durability": 500,
+      "tool_level": 7,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "40",
+      "dpa": "41- 50-57",
+      "categories": 6
+    }
   },
   {
     "id": 2115,
@@ -321,7 +464,18 @@
       "Winter"
     ],
     "icon": "icon_item_2115",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 4,
+      "attack": 24,
+      "durability": 500,
+      "tool_level": 4,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 7
+    }
   },
   {
     "id": 2116,
@@ -339,7 +493,18 @@
       "Winter"
     ],
     "icon": "icon_item_2116",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 5,
+      "attack": 12,
+      "durability": 500,
+      "tool_level": 5,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 8
+    }
   },
   {
     "id": 2117,
@@ -357,7 +522,18 @@
       "Winter"
     ],
     "icon": "icon_item_2117",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 5,
+      "attack": 36,
+      "durability": 500,
+      "tool_level": 5,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 7
+    }
   },
   {
     "id": 2118,
@@ -375,7 +551,18 @@
       "Winter"
     ],
     "icon": "icon_item_2118",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 3,
+      "attack": 12,
+      "durability": 500,
+      "tool_level": 3,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 7
+    }
   },
   {
     "id": 2119,
@@ -393,7 +580,18 @@
       "Winter"
     ],
     "icon": "icon_item_2119",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 3,
+      "attack": 6,
+      "durability": 500,
+      "tool_level": 3,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 8
+    }
   },
   {
     "id": 2120,
@@ -411,7 +609,18 @@
       "Winter"
     ],
     "icon": "icon_item_2120",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 4,
+      "attack": 9,
+      "durability": 500,
+      "tool_level": 4,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 8
+    }
   },
   {
     "id": 2121,
@@ -429,7 +638,18 @@
       "Winter"
     ],
     "icon": "icon_item_2121",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 2,
+      "attack": 6,
+      "durability": 500,
+      "tool_level": 2,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 6
+    }
   },
   {
     "id": 2122,
@@ -447,7 +667,18 @@
       "Winter"
     ],
     "icon": "icon_item_2122",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 4,
+      "attack": 22,
+      "durability": 500,
+      "tool_level": 4,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 6
+    }
   },
   {
     "id": 2123,
@@ -465,7 +696,18 @@
       "Winter"
     ],
     "icon": "icon_item_2123",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 5,
+      "attack": 33,
+      "durability": 500,
+      "tool_level": 5,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 6
+    }
   },
   {
     "id": 2124,
@@ -483,7 +725,18 @@
       "Winter"
     ],
     "icon": "icon_item_2124",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 5,
+      "attack": 48,
+      "durability": 500,
+      "tool_level": 5,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "48",
+      "dpa": "48-82-133",
+      "categories": 1
+    }
   },
   {
     "id": 2125,
@@ -501,7 +754,18 @@
       "Winter"
     ],
     "icon": "icon_item_2125",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 5,
+      "attack": 42,
+      "durability": 500,
+      "tool_level": 5,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 1
+    }
   },
   {
     "id": 2126,
@@ -519,7 +783,18 @@
       "Winter"
     ],
     "icon": "icon_item_2126",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 7,
+      "attack": 63,
+      "durability": 500,
+      "tool_level": 7,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "52",
+      "dpa": "43- 70- 172",
+      "categories": 7
+    }
   },
   {
     "id": 2127,
@@ -537,7 +812,18 @@
       "Winter"
     ],
     "icon": "icon_item_2127",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 6,
+      "attack": 48,
+      "durability": 500,
+      "tool_level": 6,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 7
+    }
   },
   {
     "id": 2128,
@@ -555,7 +841,18 @@
       "Winter"
     ],
     "icon": "icon_item_2128",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 7,
+      "attack": 18,
+      "durability": 500,
+      "tool_level": 7,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "50",
+      "dpa": "24-36--110",
+      "categories": 8
+    }
   },
   {
     "id": 2129,
@@ -573,7 +870,18 @@
       "Winter"
     ],
     "icon": "icon_item_2129",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 6,
+      "attack": 15,
+      "durability": 500,
+      "tool_level": 6,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 8
+    }
   },
   {
     "id": 2130,
@@ -591,7 +899,18 @@
       "Winter"
     ],
     "icon": "icon_item_2130",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 5,
+      "attack": 25,
+      "durability": 500,
+      "tool_level": 5,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 6
+    }
   },
   {
     "id": 2131,
@@ -609,7 +928,18 @@
       "Winter"
     ],
     "icon": "icon_item_2131",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 6,
+      "attack": 40,
+      "durability": 500,
+      "tool_level": 6,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 6
+    }
   },
   {
     "id": 2132,
@@ -627,7 +957,18 @@
       "Winter"
     ],
     "icon": "icon_item_2132",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 5,
+      "attack": 22,
+      "durability": 500,
+      "tool_level": 5,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 3
+    }
   },
   {
     "id": 2133,
@@ -645,7 +986,18 @@
       "Winter"
     ],
     "icon": "icon_item_2133",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 7,
+      "attack": 52,
+      "durability": 500,
+      "tool_level": 7,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 3
+    }
   },
   {
     "id": 2134,
@@ -663,7 +1015,18 @@
       "Winter"
     ],
     "icon": "icon_item_2134",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 4,
+      "attack": 18,
+      "durability": 500,
+      "tool_level": 4,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 3
+    }
   },
   {
     "id": 2135,
@@ -681,7 +1044,18 @@
       "Winter"
     ],
     "icon": "icon_item_2135",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 3,
+      "attack": 13,
+      "durability": 500,
+      "tool_level": 3,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 3
+    }
   },
   {
     "id": 2136,
@@ -699,7 +1073,18 @@
       "Winter"
     ],
     "icon": "icon_item_2136",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 0,
+      "attack": 2,
+      "durability": 200,
+      "tool_level": 0,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 5
+    }
   },
   {
     "id": 2137,
@@ -717,7 +1102,18 @@
       "Winter"
     ],
     "icon": "icon_item_2137",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 0,
+      "attack": 3,
+      "durability": 200,
+      "tool_level": 0,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 5
+    }
   },
   {
     "id": 2139,
@@ -933,7 +1329,18 @@
       "Winter"
     ],
     "icon": "icon_item_2150",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 4,
+      "attack": 20,
+      "durability": 500,
+      "tool_level": 4,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 3
+    }
   },
   {
     "id": 2151,
@@ -951,7 +1358,18 @@
       "Winter"
     ],
     "icon": "icon_item_2151",
-    "hidden": false
+    "hidden": false,
+    "weapon": {
+      "level": 7,
+      "attack": 60,
+      "durability": 500,
+      "tool_level": 7,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "40",
+      "dpa": "41- 50-57",
+      "categories": 6
+    }
   },
   {
     "id": 22000,
@@ -2049,7 +2467,15 @@
       "Winter"
     ],
     "icon": "icon_item_23101",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 1,
+      "type": 1,
+      "properties": [
+        "Action+6",
+        "Defense+1"
+      ]
+    }
   },
   {
     "id": 23102,
@@ -2067,7 +2493,15 @@
       "Winter"
     ],
     "icon": "icon_item_23102",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 1,
+      "type": 1,
+      "properties": [
+        "Action+2",
+        "Defense+2"
+      ]
+    }
   },
   {
     "id": 2267,
@@ -2139,7 +2573,15 @@
       "Winter"
     ],
     "icon": "icon_item_23103",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 5,
+      "type": 1,
+      "properties": [
+        "Action+6",
+        "Defense+2"
+      ]
+    }
   },
   {
     "id": 23104,
@@ -2157,7 +2599,15 @@
       "Winter"
     ],
     "icon": "icon_item_23104",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 5,
+      "type": 1,
+      "properties": [
+        "Action+3",
+        "Defense+3"
+      ]
+    }
   },
   {
     "id": 23105,
@@ -2175,7 +2625,15 @@
       "Winter"
     ],
     "icon": "icon_item_23105",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 10,
+      "type": 1,
+      "properties": [
+        "Action+18",
+        "Defense+3"
+      ]
+    }
   },
   {
     "id": 23106,
@@ -2193,7 +2651,15 @@
       "Winter"
     ],
     "icon": "icon_item_23106",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 10,
+      "type": 1,
+      "properties": [
+        "Action+9",
+        "Defense+4"
+      ]
+    }
   },
   {
     "id": 23107,
@@ -2211,7 +2677,15 @@
       "Winter"
     ],
     "icon": "icon_item_23107",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 15,
+      "type": 1,
+      "properties": [
+        "Action+18",
+        "Defense+4"
+      ]
+    }
   },
   {
     "id": 23108,
@@ -2229,7 +2703,15 @@
       "Winter"
     ],
     "icon": "icon_item_23108",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 15,
+      "type": 1,
+      "properties": [
+        "Action+15",
+        "Defense+5"
+      ]
+    }
   },
   {
     "id": 23201,
@@ -2247,7 +2729,14 @@
       "Winter"
     ],
     "icon": "icon_item_23201",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 1,
+      "type": 2,
+      "properties": [
+        "MaxHealth+35"
+      ]
+    }
   },
   {
     "id": 23202,
@@ -2265,7 +2754,15 @@
       "Winter"
     ],
     "icon": "icon_item_23202",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 1,
+      "type": 2,
+      "properties": [
+        "MaxHealth+14",
+        "Defense+1"
+      ]
+    }
   },
   {
     "id": 23203,
@@ -2283,7 +2780,15 @@
       "Winter"
     ],
     "icon": "icon_item_23203",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 5,
+      "type": 2,
+      "properties": [
+        "MaxHealth+38",
+        "Defense+1"
+      ]
+    }
   },
   {
     "id": 23204,
@@ -2301,7 +2806,15 @@
       "Winter"
     ],
     "icon": "icon_item_23204",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 5,
+      "type": 2,
+      "properties": [
+        "MaxHealth+28",
+        "Defense+2"
+      ]
+    }
   },
   {
     "id": 23205,
@@ -2319,7 +2832,15 @@
       "Winter"
     ],
     "icon": "icon_item_23205",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 10,
+      "type": 2,
+      "properties": [
+        "MaxHealth+63",
+        "Defense+2"
+      ]
+    }
   },
   {
     "id": 23206,
@@ -2337,7 +2858,15 @@
       "Winter"
     ],
     "icon": "icon_item_23206",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 10,
+      "type": 2,
+      "properties": [
+        "MaxHealth+42",
+        "Defense+3"
+      ]
+    }
   },
   {
     "id": 23207,
@@ -2355,7 +2884,15 @@
       "Winter"
     ],
     "icon": "icon_item_23207",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 15,
+      "type": 2,
+      "properties": [
+        "MaxHealth+84",
+        "Defense+3"
+      ]
+    }
   },
   {
     "id": 23208,
@@ -2373,7 +2910,15 @@
       "Winter"
     ],
     "icon": "icon_item_23208",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 15,
+      "type": 2,
+      "properties": [
+        "MaxHealth+35",
+        "Defense+5"
+      ]
+    }
   },
   {
     "id": 23210,
@@ -2391,7 +2936,15 @@
       "Winter"
     ],
     "icon": "icon_item_23210",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 1,
+      "type": 6,
+      "properties": [
+        "MaxHealth+14",
+        "Defense+1"
+      ]
+    }
   },
   {
     "id": 23211,
@@ -2409,7 +2962,15 @@
       "Winter"
     ],
     "icon": "icon_item_23211",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 1,
+      "type": 6,
+      "properties": [
+        "MaxHealth+28",
+        "Defense+1"
+      ]
+    }
   },
   {
     "id": 23212,
@@ -2427,7 +2988,15 @@
       "Winter"
     ],
     "icon": "icon_item_23212",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 1,
+      "type": 6,
+      "properties": [
+        "MaxHealth+38",
+        "Defense+1"
+      ]
+    }
   },
   {
     "id": 23213,
@@ -2445,7 +3014,15 @@
       "Winter"
     ],
     "icon": "icon_item_23213",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 5,
+      "type": 6,
+      "properties": [
+        "MaxHealth+28",
+        "Defense+2"
+      ]
+    }
   },
   {
     "id": 23214,
@@ -2463,7 +3040,15 @@
       "Winter"
     ],
     "icon": "icon_item_23214",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 5,
+      "type": 6,
+      "properties": [
+        "MaxHealth+63",
+        "Defense+2"
+      ]
+    }
   },
   {
     "id": 23215,
@@ -2481,7 +3066,15 @@
       "Winter"
     ],
     "icon": "icon_item_23215",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 10,
+      "type": 6,
+      "properties": [
+        "MaxHealth+42",
+        "Defense+3"
+      ]
+    }
   },
   {
     "id": 23216,
@@ -2499,7 +3092,15 @@
       "Winter"
     ],
     "icon": "icon_item_23216",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 10,
+      "type": 6,
+      "properties": [
+        "MaxHealth+84",
+        "Defense+3"
+      ]
+    }
   },
   {
     "id": 23217,
@@ -2517,7 +3118,15 @@
       "Winter"
     ],
     "icon": "icon_item_23217",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 15,
+      "type": 6,
+      "properties": [
+        "MaxHealth+35",
+        "Defense+5"
+      ]
+    }
   },
   {
     "id": 23218,
@@ -2535,7 +3144,15 @@
       "Winter"
     ],
     "icon": "icon_item_23218",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 15,
+      "type": 6,
+      "properties": [
+        "MaxHealth+42",
+        "Defense+5"
+      ]
+    }
   },
   {
     "id": 23301,
@@ -2553,7 +3170,15 @@
       "Winter"
     ],
     "icon": "icon_item_23301",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 1,
+      "type": 3,
+      "properties": [
+        "MaxStrength+10",
+        "Action+5"
+      ]
+    }
   },
   {
     "id": 23302,
@@ -2571,7 +3196,14 @@
       "Winter"
     ],
     "icon": "icon_item_23302",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 1,
+      "type": 3,
+      "properties": [
+        "MaxStrength+50"
+      ]
+    }
   },
   {
     "id": 23303,
@@ -2589,7 +3221,15 @@
       "Winter"
     ],
     "icon": "icon_item_23303",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 1,
+      "type": 3,
+      "properties": [
+        "Action+15",
+        "MaxHealth+35"
+      ]
+    }
   },
   {
     "id": 23304,
@@ -2607,7 +3247,14 @@
       "Winter"
     ],
     "icon": "icon_item_23304",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 5,
+      "type": 3,
+      "properties": [
+        "Attack+2"
+      ]
+    }
   },
   {
     "id": 23305,
@@ -2625,7 +3272,15 @@
       "Winter"
     ],
     "icon": "icon_item_23305",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 5,
+      "type": 3,
+      "properties": [
+        "MaxHealth+70",
+        "MaxStrength+25"
+      ]
+    }
   },
   {
     "id": 23306,
@@ -2643,7 +3298,15 @@
       "Winter"
     ],
     "icon": "icon_item_23306",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 10,
+      "type": 3,
+      "properties": [
+        "Attack+3",
+        "Action+10"
+      ]
+    }
   },
   {
     "id": 23307,
@@ -2661,7 +3324,15 @@
       "Winter"
     ],
     "icon": "icon_item_23307",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 10,
+      "type": 3,
+      "properties": [
+        "MaxStrength+30",
+        "Action+30"
+      ]
+    }
   },
   {
     "id": 23308,
@@ -2679,7 +3350,14 @@
       "Winter"
     ],
     "icon": "icon_item_23308",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 15,
+      "type": 3,
+      "properties": [
+        "Attack+5"
+      ]
+    }
   },
   {
     "id": 23401,
@@ -2697,7 +3375,15 @@
       "Winter"
     ],
     "icon": "icon_item_23401",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 1,
+      "type": 7,
+      "properties": [
+        "Action+15",
+        "Attack+2"
+      ]
+    }
   },
   {
     "id": 23402,
@@ -2715,7 +3401,14 @@
       "Winter"
     ],
     "icon": "icon_item_23402",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 1,
+      "type": 7,
+      "properties": [
+        "Defense+3"
+      ]
+    }
   },
   {
     "id": 23309,
@@ -2733,7 +3426,14 @@
       "Winter"
     ],
     "icon": "icon_item_23309",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 15,
+      "type": 3,
+      "properties": [
+        "MaxHealth+100"
+      ]
+    }
   },
   {
     "id": 23403,
@@ -2751,7 +3451,15 @@
       "Winter"
     ],
     "icon": "icon_item_23403",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 5,
+      "type": 7,
+      "properties": [
+        "Attack+1",
+        "Defense+1"
+      ]
+    }
   },
   {
     "id": 23404,
@@ -2769,7 +3477,15 @@
       "Winter"
     ],
     "icon": "icon_item_23404",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 5,
+      "type": 7,
+      "properties": [
+        "MaxStrength+35",
+        "Attack+3"
+      ]
+    }
   },
   {
     "id": 23405,
@@ -2787,7 +3503,14 @@
       "Winter"
     ],
     "icon": "icon_item_23405",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 10,
+      "type": 7,
+      "properties": [
+        "MaxHealth+105"
+      ]
+    }
   },
   {
     "id": 23406,
@@ -2805,7 +3528,15 @@
       "Winter"
     ],
     "icon": "icon_item_23406",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 10,
+      "type": 7,
+      "properties": [
+        "Attack+7",
+        "MaxStrength+35"
+      ]
+    }
   },
   {
     "id": 23407,
@@ -2823,7 +3554,15 @@
       "Winter"
     ],
     "icon": "icon_item_23407",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 15,
+      "type": 4,
+      "properties": [
+        "MaxHealth+50",
+        "Action+30"
+      ]
+    }
   },
   {
     "id": 23408,
@@ -2841,7 +3580,16 @@
       "Winter"
     ],
     "icon": "icon_item_23408",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 15,
+      "type": 7,
+      "properties": [
+        "MaxHealth+30",
+        "Action+30",
+        "MaxStrength+30"
+      ]
+    }
   },
   {
     "id": 23501,
@@ -2859,7 +3607,15 @@
       "Winter"
     ],
     "icon": "icon_item_23501",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 1,
+      "type": 5,
+      "properties": [
+        "MaxStrength+20",
+        "Action+3"
+      ]
+    }
   },
   {
     "id": 23502,
@@ -2877,7 +3633,15 @@
       "Winter"
     ],
     "icon": "icon_item_23502",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 1,
+      "type": 5,
+      "properties": [
+        "MaxStrength+10",
+        "Action+9"
+      ]
+    }
   },
   {
     "id": 23503,
@@ -2895,7 +3659,15 @@
       "Winter"
     ],
     "icon": "icon_item_23503",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 5,
+      "type": 5,
+      "properties": [
+        "MaxStrength+35",
+        "Action+9"
+      ]
+    }
   },
   {
     "id": 23504,
@@ -2913,7 +3685,15 @@
       "Winter"
     ],
     "icon": "icon_item_23504",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 5,
+      "type": 5,
+      "properties": [
+        "MaxStrength+25",
+        "Action+15"
+      ]
+    }
   },
   {
     "id": 23505,
@@ -2931,7 +3711,15 @@
       "Winter"
     ],
     "icon": "icon_item_23505",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 10,
+      "type": 5,
+      "properties": [
+        "MaxStrength+50",
+        "Action+15"
+      ]
+    }
   },
   {
     "id": 23506,
@@ -2949,7 +3737,15 @@
       "Winter"
     ],
     "icon": "icon_item_23506",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 10,
+      "type": 5,
+      "properties": [
+        "MaxStrength+35",
+        "Action+24"
+      ]
+    }
   },
   {
     "id": 23507,
@@ -2967,7 +3763,15 @@
       "Winter"
     ],
     "icon": "icon_item_23507",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 15,
+      "type": 5,
+      "properties": [
+        "MaxStrength+75",
+        "Action+15"
+      ]
+    }
   },
   {
     "id": 23508,
@@ -2985,7 +3789,15 @@
       "Winter"
     ],
     "icon": "icon_item_23508",
-    "hidden": false
+    "hidden": false,
+    "equip": {
+      "level": 15,
+      "type": 5,
+      "properties": [
+        "MaxStrength+50",
+        "Action+30"
+      ]
+    }
   },
   {
     "id": 24001,
@@ -3219,7 +4031,11 @@
       "Winter"
     ],
     "icon": "icon_item_2507",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 4,
+      "stamina": 6
+    }
   },
   {
     "id": 2508,
@@ -3237,7 +4053,11 @@
       "Winter"
     ],
     "icon": "icon_item_2508",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 4,
+      "stamina": 6
+    }
   },
   {
     "id": 2510,
@@ -3255,7 +4075,11 @@
       "Winter"
     ],
     "icon": "icon_item_2510",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 4,
+      "stamina": 6
+    }
   },
   {
     "id": 2511,
@@ -3273,7 +4097,11 @@
       "Winter"
     ],
     "icon": "icon_item_2511",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 2,
+      "stamina": 3
+    }
   },
   {
     "id": 2512,
@@ -3579,7 +4407,11 @@
       "Winter"
     ],
     "icon": "icon_item_2528",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 20,
+      "stamina": 15
+    }
   },
   {
     "id": 2529,
@@ -3651,7 +4483,11 @@
       "Winter"
     ],
     "icon": "icon_item_2532",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 50,
+      "stamina": 32
+    }
   },
   {
     "id": 2533,
@@ -3669,7 +4505,11 @@
       "Winter"
     ],
     "icon": "icon_item_2533",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 15,
+      "stamina": 10
+    }
   },
   {
     "id": 2534,
@@ -4065,7 +4905,11 @@
       "Winter"
     ],
     "icon": "icon_item_25104",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 4,
+      "stamina": 6
+    }
   },
   {
     "id": 25105,
@@ -4173,7 +5017,18 @@
       "Winter"
     ],
     "icon": "icon_item_25110",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 20,
+      "stamina": 30,
+      "buffs": [
+        {
+          "stat": "Attack",
+          "value": 20,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 25111,
@@ -4998,7 +5853,11 @@
       "Spring"
     ],
     "icon": "icon_item_2601",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 4,
+      "stamina": 6
+    }
   },
   {
     "id": 2602,
@@ -5013,7 +5872,11 @@
       "Spring"
     ],
     "icon": "icon_item_2602",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 6,
+      "stamina": 9
+    }
   },
   {
     "id": 25157,
@@ -5046,7 +5909,11 @@
       "Spring"
     ],
     "icon": "icon_item_2603",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 4,
+      "stamina": 6
+    }
   },
   {
     "id": 2604,
@@ -5061,7 +5928,11 @@
       "Spring"
     ],
     "icon": "icon_item_2604",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 2,
+      "stamina": 3
+    }
   },
   {
     "id": 2605,
@@ -5077,7 +5948,17 @@
       "Autumn"
     ],
     "icon": "icon_item_2605",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 2,
+      "buffs": [
+        {
+          "stat": "Defense",
+          "value": 2,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 2606,
@@ -5092,7 +5973,18 @@
       "Spring"
     ],
     "icon": "icon_item_2606",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 4,
+      "stamina": 6,
+      "buffs": [
+        {
+          "stat": "EnergyRecover",
+          "value": 40,
+          "seconds": 180
+        }
+      ]
+    }
   },
   {
     "id": 2607,
@@ -5122,7 +6014,11 @@
       "Spring"
     ],
     "icon": "icon_item_2608",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 4,
+      "stamina": 6
+    }
   },
   {
     "id": 2609,
@@ -5137,7 +6033,11 @@
       "Spring"
     ],
     "icon": "icon_item_2609",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 4,
+      "stamina": 6
+    }
   },
   {
     "id": 2610,
@@ -5152,7 +6052,11 @@
       "Summer"
     ],
     "icon": "icon_item_2610",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 2,
+      "stamina": 4
+    }
   },
   {
     "id": 2611,
@@ -5168,7 +6072,18 @@
       "Autumn"
     ],
     "icon": "icon_item_2611",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 2,
+      "stamina": 3,
+      "buffs": [
+        {
+          "stat": "Defense",
+          "value": 1,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 2612,
@@ -5184,7 +6099,11 @@
       "Summer"
     ],
     "icon": "icon_item_2612",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 2,
+      "stamina": 3
+    }
   },
   {
     "id": 2613,
@@ -5200,7 +6119,18 @@
       "Autumn"
     ],
     "icon": "icon_item_2613",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 2,
+      "stamina": 3,
+      "buffs": [
+        {
+          "stat": "Defense",
+          "value": 2,
+          "seconds": 150
+        }
+      ]
+    }
   },
   {
     "id": 2614,
@@ -5215,7 +6145,11 @@
       "Summer"
     ],
     "icon": "icon_item_2614",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 4,
+      "stamina": 6
+    }
   },
   {
     "id": 2615,
@@ -5230,7 +6164,18 @@
       "Summer"
     ],
     "icon": "icon_item_2615",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 2,
+      "stamina": 3,
+      "buffs": [
+        {
+          "stat": "EnergyRecover",
+          "value": 10,
+          "seconds": 180
+        }
+      ]
+    }
   },
   {
     "id": 2616,
@@ -5260,7 +6205,11 @@
       "Summer"
     ],
     "icon": "icon_item_2617",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 2,
+      "stamina": 3
+    }
   },
   {
     "id": 2618,
@@ -5275,7 +6224,18 @@
       "Summer"
     ],
     "icon": "icon_item_2618",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 2,
+      "stamina": 3,
+      "buffs": [
+        {
+          "stat": "Attack",
+          "value": 2,
+          "seconds": 150
+        }
+      ]
+    }
   },
   {
     "id": 2619,
@@ -5290,7 +6250,11 @@
       "Summer"
     ],
     "icon": "icon_item_2619",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 10,
+      "stamina": 15
+    }
   },
   {
     "id": 2620,
@@ -5305,7 +6269,11 @@
       "Summer"
     ],
     "icon": "icon_item_2620",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 4,
+      "stamina": 6
+    }
   },
   {
     "id": 2621,
@@ -5320,7 +6288,11 @@
       "Summer"
     ],
     "icon": "icon_item_2621",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 2,
+      "stamina": 2
+    }
   },
   {
     "id": 2622,
@@ -5337,7 +6309,18 @@
       "Autumn"
     ],
     "icon": "icon_item_2622",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 2,
+      "stamina": 3,
+      "buffs": [
+        {
+          "stat": "Attack",
+          "value": 2,
+          "seconds": 200
+        }
+      ]
+    }
   },
   {
     "id": 2623,
@@ -5352,7 +6335,18 @@
       "Summer"
     ],
     "icon": "icon_item_2623",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 2,
+      "stamina": 3,
+      "buffs": [
+        {
+          "stat": "Defense",
+          "value": 2,
+          "seconds": 150
+        }
+      ]
+    }
   },
   {
     "id": 2624,
@@ -5367,7 +6361,18 @@
       "Summer"
     ],
     "icon": "icon_item_2624",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 2,
+      "stamina": 3,
+      "buffs": [
+        {
+          "stat": "EnergyRecover",
+          "value": 10,
+          "seconds": 180
+        }
+      ]
+    }
   },
   {
     "id": 2625,
@@ -5382,7 +6387,18 @@
       "Autumn"
     ],
     "icon": "icon_item_2625",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 2,
+      "stamina": 3,
+      "buffs": [
+        {
+          "stat": "EnergyRecover",
+          "value": 10,
+          "seconds": 180
+        }
+      ]
+    }
   },
   {
     "id": 2626,
@@ -5412,7 +6428,11 @@
       "Autumn"
     ],
     "icon": "icon_item_2627",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 3,
+      "stamina": 5
+    }
   },
   {
     "id": 2628,
@@ -5427,7 +6447,18 @@
       "Autumn"
     ],
     "icon": "icon_item_2628",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 4,
+      "stamina": 6,
+      "buffs": [
+        {
+          "stat": "Defense",
+          "value": 1,
+          "seconds": 150
+        }
+      ]
+    }
   },
   {
     "id": 2629,
@@ -5442,7 +6473,18 @@
       "Autumn"
     ],
     "icon": "icon_item_2629",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 3,
+      "stamina": 4,
+      "buffs": [
+        {
+          "stat": "Attack",
+          "value": 2,
+          "seconds": 200
+        }
+      ]
+    }
   },
   {
     "id": 2630,
@@ -5457,7 +6499,11 @@
       "Autumn"
     ],
     "icon": "icon_item_2630",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 12,
+      "stamina": 16
+    }
   },
   {
     "id": 2631,
@@ -5472,7 +6518,18 @@
       "Autumn"
     ],
     "icon": "icon_item_2631",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 4,
+      "stamina": 6,
+      "buffs": [
+        {
+          "stat": "Defense",
+          "value": 2,
+          "seconds": 150
+        }
+      ]
+    }
   },
   {
     "id": 2632,
@@ -5532,7 +6589,18 @@
       "Autumn"
     ],
     "icon": "icon_item_2635",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 2,
+      "stamina": 2,
+      "buffs": [
+        {
+          "stat": "Attack",
+          "value": 4,
+          "seconds": 200
+        }
+      ]
+    }
   },
   {
     "id": 2636,
@@ -5547,7 +6615,18 @@
       "Autumn"
     ],
     "icon": "icon_item_2636",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 4,
+      "stamina": 6,
+      "buffs": [
+        {
+          "stat": "EnergyRecover",
+          "value": 10,
+          "seconds": 180
+        }
+      ]
+    }
   },
   {
     "id": 2637,
@@ -5563,7 +6642,11 @@
       "Winter"
     ],
     "icon": "icon_item_2637",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 8,
+      "stamina": 12
+    }
   },
   {
     "id": 2638,
@@ -5617,7 +6700,11 @@
       "Winter"
     ],
     "icon": "icon_item_26042",
-    "hidden": true
+    "hidden": true,
+    "effects": {
+      "health": 4,
+      "stamina": 15
+    }
   },
   {
     "id": 2641,
@@ -5665,7 +6752,11 @@
       "Summer"
     ],
     "icon": "icon_item_2643",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 4,
+      "stamina": 6
+    }
   },
   {
     "id": 2644,
@@ -5680,7 +6771,11 @@
       "Spring"
     ],
     "icon": "icon_item_2644",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 5,
+      "stamina": 5
+    }
   },
   {
     "id": 2645,
@@ -5695,7 +6790,10 @@
       "Spring"
     ],
     "icon": "icon_item_2645",
-    "hidden": true
+    "hidden": true,
+    "effects": {
+      "stamina": 32
+    }
   },
   {
     "id": 2646,
@@ -5713,7 +6811,11 @@
       "Winter"
     ],
     "icon": "icon_item_2646",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 8,
+      "stamina": 12
+    }
   },
   {
     "id": 2647,
@@ -5731,7 +6833,11 @@
       "Winter"
     ],
     "icon": "icon_item_2647",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 12,
+      "stamina": 18
+    }
   },
   {
     "id": 2648,
@@ -5821,7 +6927,11 @@
       "Winter"
     ],
     "icon": "icon_item_2652",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 8,
+      "stamina": 12
+    }
   },
   {
     "id": 2653,
@@ -5839,7 +6949,11 @@
       "Winter"
     ],
     "icon": "icon_item_2653",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 8,
+      "stamina": 12
+    }
   },
   {
     "id": 2654,
@@ -5857,7 +6971,11 @@
       "Winter"
     ],
     "icon": "icon_item_2654",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 12,
+      "stamina": 18
+    }
   },
   {
     "id": 2655,
@@ -5893,7 +7011,11 @@
       "Winter"
     ],
     "icon": "icon_item_2656",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 8,
+      "stamina": 12
+    }
   },
   {
     "id": 2657,
@@ -7191,7 +8313,10 @@
       "Winter"
     ],
     "icon": "icon_item_26001",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 20
+    }
   },
   {
     "id": 26013,
@@ -7209,7 +8334,18 @@
       "Winter"
     ],
     "icon": "icon_item_26013",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 70,
+      "stamina": 63,
+      "buffs": [
+        {
+          "stat": "Defense",
+          "value": 4,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 26023,
@@ -7227,7 +8363,18 @@
       "Winter"
     ],
     "icon": "icon_item_26023",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 40,
+      "stamina": 48,
+      "buffs": [
+        {
+          "stat": "EnergyRecover",
+          "value": 48,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 26033,
@@ -7245,7 +8392,18 @@
       "Winter"
     ],
     "icon": "icon_item_26033",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 150,
+      "stamina": 120,
+      "buffs": [
+        {
+          "stat": "Attack",
+          "value": 7,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 26043,
@@ -7263,7 +8421,11 @@
       "Winter"
     ],
     "icon": "icon_item_26043",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 40,
+      "stamina": 32
+    }
   },
   {
     "id": 26053,
@@ -7281,7 +8443,11 @@
       "Winter"
     ],
     "icon": "icon_item_26053",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 40,
+      "stamina": 32
+    }
   },
   {
     "id": 26063,
@@ -7299,7 +8465,11 @@
       "Winter"
     ],
     "icon": "icon_item_26063",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 40,
+      "stamina": 32
+    }
   },
   {
     "id": 26073,
@@ -7317,7 +8487,18 @@
       "Winter"
     ],
     "icon": "icon_item_26073",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 60,
+      "stamina": 62,
+      "buffs": [
+        {
+          "stat": "EnergyRecover",
+          "value": 20,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 26083,
@@ -7335,7 +8516,11 @@
       "Winter"
     ],
     "icon": "icon_item_26083",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 25,
+      "stamina": 30
+    }
   },
   {
     "id": 26093,
@@ -7353,7 +8538,11 @@
       "Winter"
     ],
     "icon": "icon_item_26093",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 30,
+      "stamina": 36
+    }
   },
   {
     "id": 26103,
@@ -7371,7 +8560,18 @@
       "Winter"
     ],
     "icon": "icon_item_26103",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 150,
+      "stamina": 90,
+      "buffs": [
+        {
+          "stat": "Defense",
+          "value": 6,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 26113,
@@ -7389,7 +8589,18 @@
       "Winter"
     ],
     "icon": "icon_item_26113",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 70,
+      "stamina": 63,
+      "buffs": [
+        {
+          "stat": "EnergyRecover",
+          "value": 80,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 26123,
@@ -7407,7 +8618,18 @@
       "Winter"
     ],
     "icon": "icon_item_26123",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 100,
+      "stamina": 52,
+      "buffs": [
+        {
+          "stat": "Defense",
+          "value": 4,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 26133,
@@ -7425,7 +8647,18 @@
       "Winter"
     ],
     "icon": "icon_item_26133",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 75,
+      "stamina": 66,
+      "buffs": [
+        {
+          "stat": "Defense",
+          "value": 4,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 26143,
@@ -7443,7 +8676,11 @@
       "Winter"
     ],
     "icon": "icon_item_26143",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 55,
+      "stamina": 52
+    }
   },
   {
     "id": 26153,
@@ -7461,7 +8698,11 @@
       "Winter"
     ],
     "icon": "icon_item_26153",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 70,
+      "stamina": 60
+    }
   },
   {
     "id": 26163,
@@ -7479,7 +8720,11 @@
       "Winter"
     ],
     "icon": "icon_item_26163",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 60,
+      "stamina": 62
+    }
   },
   {
     "id": 26173,
@@ -7497,7 +8742,11 @@
       "Winter"
     ],
     "icon": "icon_item_26173",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 40,
+      "stamina": 32
+    }
   },
   {
     "id": 26183,
@@ -7515,7 +8764,11 @@
       "Winter"
     ],
     "icon": "icon_item_26183",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 30,
+      "stamina": 30
+    }
   },
   {
     "id": 26300,
@@ -7533,7 +8786,11 @@
       "Winter"
     ],
     "icon": "icon_item_26300",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 30,
+      "stamina": 30
+    }
   },
   {
     "id": 26301,
@@ -7551,7 +8808,11 @@
       "Winter"
     ],
     "icon": "icon_item_26301",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 30,
+      "stamina": 30
+    }
   },
   {
     "id": 26302,
@@ -7569,7 +8830,11 @@
       "Winter"
     ],
     "icon": "icon_item_26302",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 30,
+      "stamina": 30
+    }
   },
   {
     "id": 26303,
@@ -7587,7 +8852,11 @@
       "Winter"
     ],
     "icon": "icon_item_26303",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 30,
+      "stamina": 30
+    }
   },
   {
     "id": 26304,
@@ -7605,7 +8874,11 @@
       "Winter"
     ],
     "icon": "icon_item_26304",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 100,
+      "stamina": 90
+    }
   },
   {
     "id": 26305,
@@ -7623,7 +8896,18 @@
       "Winter"
     ],
     "icon": "icon_item_26305",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 90,
+      "stamina": 87,
+      "buffs": [
+        {
+          "stat": "Attack",
+          "value": 2,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 26306,
@@ -7641,7 +8925,11 @@
       "Winter"
     ],
     "icon": "icon_item_26306",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 150,
+      "stamina": 60
+    }
   },
   {
     "id": 26307,
@@ -7659,7 +8947,18 @@
       "Winter"
     ],
     "icon": "icon_item_26307",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 80,
+      "stamina": 72,
+      "buffs": [
+        {
+          "stat": "EnergyRecover",
+          "value": 80,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 26308,
@@ -7677,7 +8976,11 @@
       "Winter"
     ],
     "icon": "icon_item_26308",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 75,
+      "stamina": 63
+    }
   },
   {
     "id": 26309,
@@ -7695,7 +8998,18 @@
       "Winter"
     ],
     "icon": "icon_item_26309",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 50,
+      "stamina": 52,
+      "buffs": [
+        {
+          "stat": "Attack",
+          "value": 4,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 26310,
@@ -7713,7 +9027,18 @@
       "Winter"
     ],
     "icon": "icon_item_26310",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 35,
+      "stamina": 44,
+      "buffs": [
+        {
+          "stat": "EnergyRecover",
+          "value": 10,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 26311,
@@ -7731,7 +9056,11 @@
       "Winter"
     ],
     "icon": "icon_item_26311",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 65,
+      "stamina": 63
+    }
   },
   {
     "id": 26312,
@@ -7749,7 +9078,18 @@
       "Winter"
     ],
     "icon": "icon_item_26312",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 100,
+      "stamina": 90,
+      "buffs": [
+        {
+          "stat": "Defense",
+          "value": 8,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 26313,
@@ -7767,7 +9107,11 @@
       "Winter"
     ],
     "icon": "icon_item_26313",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 50,
+      "stamina": 81
+    }
   },
   {
     "id": 26314,
@@ -7785,7 +9129,11 @@
       "Winter"
     ],
     "icon": "icon_item_26314",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 80,
+      "stamina": 72
+    }
   },
   {
     "id": 26315,
@@ -7803,7 +9151,18 @@
       "Winter"
     ],
     "icon": "icon_item_26315",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 75,
+      "stamina": 67,
+      "buffs": [
+        {
+          "stat": "EnergyRecover",
+          "value": 22,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 26316,
@@ -7821,7 +9180,18 @@
       "Winter"
     ],
     "icon": "icon_item_26316",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 150,
+      "stamina": 63,
+      "buffs": [
+        {
+          "stat": "Attack",
+          "value": 2,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 26317,
@@ -7839,7 +9209,18 @@
       "Winter"
     ],
     "icon": "icon_item_26317",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 90,
+      "stamina": 87,
+      "buffs": [
+        {
+          "stat": "Attack",
+          "value": 8,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 26318,
@@ -7857,7 +9238,18 @@
       "Winter"
     ],
     "icon": "icon_item_26318",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 105,
+      "stamina": 96,
+      "buffs": [
+        {
+          "stat": "EnergyRecover",
+          "value": 6,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 26319,
@@ -7875,7 +9267,18 @@
       "Winter"
     ],
     "icon": "icon_item_26319",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 60,
+      "stamina": 62,
+      "buffs": [
+        {
+          "stat": "Attack",
+          "value": 15,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 26320,
@@ -7893,7 +9296,18 @@
       "Winter"
     ],
     "icon": "icon_item_26320",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 8,
+      "stamina": 20,
+      "buffs": [
+        {
+          "stat": "EnergyRecover",
+          "value": 6,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 26321,
@@ -7911,7 +9325,18 @@
       "Winter"
     ],
     "icon": "icon_item_26321",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 150,
+      "stamina": 60,
+      "buffs": [
+        {
+          "stat": "EnergyRecover",
+          "value": 160,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 26322,
@@ -7929,7 +9354,11 @@
       "Winter"
     ],
     "icon": "icon_item_26322",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 100,
+      "stamina": 90
+    }
   },
   {
     "id": 26323,
@@ -7947,7 +9376,11 @@
       "Winter"
     ],
     "icon": "icon_item_26323",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 100,
+      "stamina": 52
+    }
   },
   {
     "id": 26324,
@@ -7965,7 +9398,18 @@
       "Winter"
     ],
     "icon": "icon_item_26324",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 60,
+      "stamina": 62,
+      "buffs": [
+        {
+          "stat": "Attack",
+          "value": 12,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 26325,
@@ -7983,7 +9427,11 @@
       "Winter"
     ],
     "icon": "icon_item_26325",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 85,
+      "stamina": 90
+    }
   },
   {
     "id": 26326,
@@ -8001,7 +9449,18 @@
       "Winter"
     ],
     "icon": "icon_item_26326",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 55,
+      "stamina": 56,
+      "buffs": [
+        {
+          "stat": "EnergyRecover",
+          "value": 120,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 26327,
@@ -8019,7 +9478,18 @@
       "Winter"
     ],
     "icon": "icon_item_26327",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 60,
+      "stamina": 62,
+      "buffs": [
+        {
+          "stat": "Attack",
+          "value": 20,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 26328,
@@ -8037,7 +9507,11 @@
       "Winter"
     ],
     "icon": "icon_item_26328",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 95,
+      "stamina": 87
+    }
   },
   {
     "id": 26329,
@@ -8055,7 +9529,18 @@
       "Winter"
     ],
     "icon": "icon_item_26329",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 60,
+      "stamina": 62,
+      "buffs": [
+        {
+          "stat": "Attack",
+          "value": 4,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 26330,
@@ -8073,7 +9558,16 @@
       "Winter"
     ],
     "icon": "icon_item_26330",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "buffs": [
+        {
+          "stat": "Attack",
+          "value": 8,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 26331,
@@ -8091,7 +9585,21 @@
       "Winter"
     ],
     "icon": "icon_item_26331",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "buffs": [
+        {
+          "stat": "Attack",
+          "value": 4,
+          "seconds": 300
+        },
+        {
+          "stat": "Defense",
+          "value": 6,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 26332,
@@ -8109,7 +9617,11 @@
       "Winter"
     ],
     "icon": "icon_item_26332",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 70,
+      "stamina": 63
+    }
   },
   {
     "id": 26333,
@@ -8127,7 +9639,11 @@
       "Winter"
     ],
     "icon": "icon_item_26333",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 120,
+      "stamina": 62
+    }
   },
   {
     "id": 26334,
@@ -8145,7 +9661,11 @@
       "Winter"
     ],
     "icon": "icon_item_26334",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 30,
+      "stamina": 56
+    }
   },
   {
     "id": 26335,
@@ -8163,7 +9683,18 @@
       "Winter"
     ],
     "icon": "icon_item_26335",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 110,
+      "stamina": 56,
+      "buffs": [
+        {
+          "stat": "EnergyRecover",
+          "value": 40,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 26336,
@@ -8181,7 +9712,11 @@
       "Winter"
     ],
     "icon": "icon_item_26336",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 10,
+      "stamina": 60
+    }
   },
   {
     "id": 26337,
@@ -8199,7 +9734,18 @@
       "Winter"
     ],
     "icon": "icon_item_26337",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 125,
+      "stamina": 150,
+      "buffs": [
+        {
+          "stat": "Attack",
+          "value": 5,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 26338,
@@ -8217,7 +9763,21 @@
       "Winter"
     ],
     "icon": "icon_item_26338",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "buffs": [
+        {
+          "stat": "Attack",
+          "value": 6,
+          "seconds": 300
+        },
+        {
+          "stat": "Defense",
+          "value": 4,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "id": 29001,
@@ -13401,7 +14961,11 @@
       "Winter"
     ],
     "icon": "icon_item_42001",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 4,
+      "stamina": 6
+    }
   },
   {
     "id": 42002,
@@ -13419,7 +14983,11 @@
       "Winter"
     ],
     "icon": "icon_item_42002",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 4,
+      "stamina": 6
+    }
   },
   {
     "id": 42003,
@@ -13435,7 +15003,11 @@
       "Summer"
     ],
     "icon": "icon_item_42003",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 4,
+      "stamina": 6
+    }
   },
   {
     "id": 42004,
@@ -13451,7 +15023,11 @@
       "Winter"
     ],
     "icon": "icon_item_42004",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 4,
+      "stamina": 6
+    }
   },
   {
     "id": 42005,
@@ -13466,7 +15042,11 @@
       "Spring"
     ],
     "icon": "icon_item_42005",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 4,
+      "stamina": 6
+    }
   },
   {
     "id": 42006,
@@ -13481,7 +15061,11 @@
       "Summer"
     ],
     "icon": "icon_item_42006",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 4,
+      "stamina": 6
+    }
   },
   {
     "id": 42007,
@@ -13496,7 +15080,11 @@
       "Autumn"
     ],
     "icon": "icon_item_42007",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 10,
+      "stamina": 15
+    }
   },
   {
     "id": 42008,
@@ -13511,7 +15099,11 @@
       "Winter"
     ],
     "icon": "icon_item_42008",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 4,
+      "stamina": 6
+    }
   },
   {
     "id": 42009,
@@ -13529,7 +15121,11 @@
       "Winter"
     ],
     "icon": "icon_item_42009",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 4,
+      "stamina": 6
+    }
   },
   {
     "id": 42010,
@@ -13546,7 +15142,11 @@
       "Autumn"
     ],
     "icon": "icon_item_42010",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 4,
+      "stamina": 6
+    }
   },
   {
     "id": 42011,
@@ -13563,7 +15163,11 @@
       "Autumn"
     ],
     "icon": "icon_item_42011",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 4,
+      "stamina": 6
+    }
   },
   {
     "id": 42012,
@@ -13578,7 +15182,11 @@
       "Spring"
     ],
     "icon": "icon_item_42012",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 20,
+      "stamina": 30
+    }
   },
   {
     "id": 42013,
@@ -13593,7 +15201,11 @@
       "Summer"
     ],
     "icon": "icon_item_42013",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 20,
+      "stamina": 30
+    }
   },
   {
     "id": 42014,
@@ -13609,7 +15221,11 @@
       "Winter"
     ],
     "icon": "icon_item_42014",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 10,
+      "stamina": 15
+    }
   },
   {
     "id": 42015,
@@ -13624,7 +15240,11 @@
       "Spring"
     ],
     "icon": "icon_item_42015",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 20,
+      "stamina": 30
+    }
   },
   {
     "id": 42016,
@@ -13639,7 +15259,11 @@
       "Summer"
     ],
     "icon": "icon_item_42016",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 10,
+      "stamina": 15
+    }
   },
   {
     "id": 42017,
@@ -13655,7 +15279,11 @@
       "Winter"
     ],
     "icon": "icon_item_42017",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 30,
+      "stamina": 36
+    }
   },
   {
     "id": 42018,
@@ -13670,7 +15298,11 @@
       "Spring"
     ],
     "icon": "icon_item_42018",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 25,
+      "stamina": 32
+    }
   },
   {
     "id": 42019,
@@ -13685,7 +15317,11 @@
       "Summer"
     ],
     "icon": "icon_item_42019",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 10,
+      "stamina": 15
+    }
   },
   {
     "id": 42020,
@@ -13701,7 +15337,11 @@
       "Winter"
     ],
     "icon": "icon_item_42020",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 25,
+      "stamina": 32
+    }
   },
   {
     "id": 42021,
@@ -13717,7 +15357,11 @@
       "Summer"
     ],
     "icon": "icon_item_42021",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 15,
+      "stamina": 20
+    }
   },
   {
     "id": 42022,
@@ -13733,7 +15377,11 @@
       "Winter"
     ],
     "icon": "icon_item_42022",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 30,
+      "stamina": 36
+    }
   },
   {
     "id": 42023,
@@ -13749,7 +15397,11 @@
       "Summer"
     ],
     "icon": "icon_item_42023",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 14,
+      "stamina": 20
+    }
   },
   {
     "id": 42024,
@@ -13765,7 +15417,11 @@
       "Winter"
     ],
     "icon": "icon_item_42024",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 60,
+      "stamina": 62
+    }
   },
   {
     "id": 42025,
@@ -13781,7 +15437,11 @@
       "Summer"
     ],
     "icon": "icon_item_42025",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 16,
+      "stamina": 25
+    }
   },
   {
     "id": 42026,
@@ -13797,7 +15457,11 @@
       "Winter"
     ],
     "icon": "icon_item_42026",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 20,
+      "stamina": 30
+    }
   },
   {
     "id": 42027,
@@ -13814,7 +15478,11 @@
       "Autumn"
     ],
     "icon": "icon_item_42027",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 22,
+      "stamina": 28
+    }
   },
   {
     "id": 42028,
@@ -13832,7 +15500,11 @@
       "Winter"
     ],
     "icon": "icon_item_42028",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 20,
+      "stamina": 30
+    }
   },
   {
     "id": 42029,
@@ -13847,7 +15519,11 @@
       "Winter"
     ],
     "icon": "icon_item_42029",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 40,
+      "stamina": 48
+    }
   },
   {
     "id": 42030,
@@ -13862,7 +15538,11 @@
       "Winter"
     ],
     "icon": "icon_item_42030",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 150,
+      "stamina": 100
+    }
   },
   {
     "id": 42031,
@@ -13877,7 +15557,11 @@
       "Autumn"
     ],
     "icon": "icon_item_42031",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 125,
+      "stamina": 100
+    }
   },
   {
     "id": 42032,
@@ -13892,7 +15576,11 @@
       "Winter"
     ],
     "icon": "icon_item_42032",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 90,
+      "stamina": 75
+    }
   },
   {
     "id": 42033,
@@ -13907,7 +15595,11 @@
       "Summer"
     ],
     "icon": "icon_item_42033",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 115,
+      "stamina": 100
+    }
   },
   {
     "id": 42034,
@@ -13922,7 +15614,11 @@
       "Summer"
     ],
     "icon": "icon_item_42034",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 15,
+      "stamina": 20
+    }
   },
   {
     "id": 42035,
@@ -13937,7 +15633,11 @@
       "Summer"
     ],
     "icon": "icon_item_42035",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 30,
+      "stamina": 36
+    }
   },
   {
     "id": 42036,
@@ -13954,7 +15654,11 @@
       "Autumn"
     ],
     "icon": "icon_item_42036",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 30,
+      "stamina": 36
+    }
   },
   {
     "id": 42037,
@@ -13971,7 +15675,11 @@
       "Autumn"
     ],
     "icon": "icon_item_42037",
-    "hidden": false
+    "hidden": false,
+    "effects": {
+      "health": 10,
+      "stamina": 15
+    }
   },
   {
     "id": 42000,
@@ -14778,7 +16486,18 @@
       "Winter"
     ],
     "icon": "icon_item_1100",
-    "hidden": true
+    "hidden": true,
+    "weapon": {
+      "level": 0,
+      "attack": 1,
+      "durability": 99999,
+      "tool_level": 0,
+      "cut_level": 0,
+      "mine_level": 0,
+      "dps": "",
+      "dpa": "",
+      "categories": 9
+    }
   },
   {
     "id": 1101,

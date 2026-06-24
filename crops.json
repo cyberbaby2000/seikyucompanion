@@ -10,7 +10,11 @@
       "Spring"
     ],
     "grow_days": 3,
-    "big_crop_name": "Giant Turnip"
+    "big_crop_name": "Giant Turnip",
+    "effects": {
+      "health": 4,
+      "stamina": 6
+    }
   },
   {
     "seed_id": 2702,
@@ -23,7 +27,11 @@
       "Spring"
     ],
     "grow_days": 4,
-    "big_crop_name": "Giant Potato"
+    "big_crop_name": "Giant Potato",
+    "effects": {
+      "health": 6,
+      "stamina": 9
+    }
   },
   {
     "seed_id": 2703,
@@ -36,7 +44,11 @@
       "Spring"
     ],
     "grow_days": 3,
-    "big_crop_name": "Giant Celery"
+    "big_crop_name": "Giant Celery",
+    "effects": {
+      "health": 4,
+      "stamina": 6
+    }
   },
   {
     "seed_id": 2704,
@@ -49,7 +61,11 @@
       "Spring"
     ],
     "grow_days": 3,
-    "big_crop_name": "Giant Garlic"
+    "big_crop_name": "Giant Garlic",
+    "effects": {
+      "health": 2,
+      "stamina": 3
+    }
   },
   {
     "seed_id": 2705,
@@ -63,7 +79,17 @@
       "Autumn"
     ],
     "grow_days": 5,
-    "big_crop_name": "Giant Cabbage"
+    "big_crop_name": "Giant Cabbage",
+    "effects": {
+      "health": 2,
+      "buffs": [
+        {
+          "stat": "Defense",
+          "value": 2,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "seed_id": 2706,
@@ -76,7 +102,18 @@
       "Spring"
     ],
     "grow_days": 9,
-    "big_crop_name": "Giant Red Bean"
+    "big_crop_name": "Giant Red Bean",
+    "effects": {
+      "health": 4,
+      "stamina": 6,
+      "buffs": [
+        {
+          "stat": "EnergyRecover",
+          "value": 40,
+          "seconds": 180
+        }
+      ]
+    }
   },
   {
     "seed_id": 2707,
@@ -102,7 +139,11 @@
       "Spring"
     ],
     "grow_days": 3,
-    "big_crop_name": "Giant Chinese Toon"
+    "big_crop_name": "Giant Chinese Toon",
+    "effects": {
+      "health": 4,
+      "stamina": 6
+    }
   },
   {
     "seed_id": 2709,
@@ -115,7 +156,11 @@
       "Spring"
     ],
     "grow_days": 8,
-    "big_crop_name": "Giant Strawberry"
+    "big_crop_name": "Giant Strawberry",
+    "effects": {
+      "health": 4,
+      "stamina": 6
+    }
   },
   {
     "seed_id": 2710,
@@ -128,7 +173,11 @@
       "Summer"
     ],
     "grow_days": 9,
-    "big_crop_name": "Giant Green Tea"
+    "big_crop_name": "Giant Green Tea",
+    "effects": {
+      "health": 2,
+      "stamina": 4
+    }
   },
   {
     "seed_id": 2711,
@@ -142,7 +191,18 @@
       "Autumn"
     ],
     "grow_days": 7,
-    "big_crop_name": "Giant Soybean"
+    "big_crop_name": "Giant Soybean",
+    "effects": {
+      "health": 2,
+      "stamina": 3,
+      "buffs": [
+        {
+          "stat": "Defense",
+          "value": 1,
+          "seconds": 300
+        }
+      ]
+    }
   },
   {
     "seed_id": 2712,
@@ -156,7 +216,11 @@
       "Summer"
     ],
     "grow_days": 3,
-    "big_crop_name": "Giant Wheat"
+    "big_crop_name": "Giant Wheat",
+    "effects": {
+      "health": 2,
+      "stamina": 3
+    }
   },
   {
     "seed_id": 2713,
@@ -170,7 +234,18 @@
       "Autumn"
     ],
     "grow_days": 4,
-    "big_crop_name": "Giant Sugarcane"
+    "big_crop_name": "Giant Sugarcane",
+    "effects": {
+      "health": 2,
+      "stamina": 3,
+      "buffs": [
+        {
+          "stat": "Defense",
+          "value": 2,
+          "seconds": 150
+        }
+      ]
+    }
   },
   {
     "seed_id": 2714,
@@ -183,7 +258,11 @@
       "Summer"
     ],
     "grow_days": 3,
-    "big_crop_name": "Giant Daylily"
+    "big_crop_name": "Giant Daylily",
+    "effects": {
+      "health": 4,
+      "stamina": 6
+    }
   },
   {
     "seed_id": 2715,
@@ -196,7 +275,18 @@
       "Summer"
     ],
     "grow_days": 4,
-    "big_crop_name": "Giant Pineapple"
+    "big_crop_name": "Giant Pineapple",
+    "effects": {
+      "health": 2,
+      "stamina": 3,
+      "buffs": [
+        {
+          "stat": "EnergyRecover",
+          "value": 10,
+          "seconds": 180
+        }
+      ]
+    }
   },
   {
     "seed_id": 2716,
@@ -222,7 +312,11 @@
       "Summer"
     ],
     "grow_days": 9,
-    "big_crop_name": "Giant Peach"
+    "big_crop_name": "Giant Peach",
+    "effects": {
+      "health": 2,
+      "stamina": 3
+    }
   },
   {
     "seed_id": 2718,
@@ -235,7 +329,18 @@
       "Summer"
     ],
     "grow_days": 10,
-    "big_crop_name": "Giant Lemon"
+    "big_crop_name": "Giant Lemon",
+    "effects": {
+      "health": 2,
+      "stamina": 3,
+      "buffs": [
+        {
+          "stat": "Attack",
+          "value": 2,
+          "seconds": 150
+        }
+      ]
+    }
   },
   {
     "seed_id": 2719,
@@ -248,7 +353,11 @@
       "Summer"
     ],
     "grow_days": 4,
-    "big_crop_name": "Giant Watermelon"
+    "big_crop_name": "Giant Watermelon",
+    "effects": {
+      "health": 10,
+      "stamina": 15
+    }
   },
   {
     "seed_id": 2720,
@@ -261,7 +370,11 @@
       "Summer"
     ],
     "grow_days": 3,
-    "big_crop_name": "Giant Tomato"
+    "big_crop_name": "Giant Tomato",
+    "effects": {
+      "health": 4,
+      "stamina": 6
+    }
   },
   {
     "seed_id": 2721,
@@ -274,7 +387,11 @@
       "Summer"
     ],
     "grow_days": 8,
-    "big_crop_name": "Giant Raspberry"
+    "big_crop_name": "Giant Raspberry",
+    "effects": {
+      "health": 2,
+      "stamina": 2
+    }
   },
   {
     "seed_id": 2722,
@@ -289,7 +406,18 @@
       "Autumn"
     ],
     "grow_days": 10,
-    "big_crop_name": "Giant Cucumber"
+    "big_crop_name": "Giant Cucumber",
+    "effects": {
+      "health": 2,
+      "stamina": 3,
+      "buffs": [
+        {
+          "stat": "Attack",
+          "value": 2,
+          "seconds": 200
+        }
+      ]
+    }
   },
   {
     "seed_id": 2723,
@@ -302,7 +430,18 @@
       "Summer"
     ],
     "grow_days": 4,
-    "big_crop_name": "Giant Mango"
+    "big_crop_name": "Giant Mango",
+    "effects": {
+      "health": 2,
+      "stamina": 3,
+      "buffs": [
+        {
+          "stat": "Defense",
+          "value": 2,
+          "seconds": 150
+        }
+      ]
+    }
   },
   {
     "seed_id": 2724,
@@ -315,7 +454,18 @@
       "Summer"
     ],
     "grow_days": 8,
-    "big_crop_name": "Giant Grape"
+    "big_crop_name": "Giant Grape",
+    "effects": {
+      "health": 2,
+      "stamina": 3,
+      "buffs": [
+        {
+          "stat": "EnergyRecover",
+          "value": 10,
+          "seconds": 180
+        }
+      ]
+    }
   },
   {
     "seed_id": 2725,
@@ -328,7 +478,18 @@
       "Autumn"
     ],
     "grow_days": 3,
-    "big_crop_name": "Giant Yam"
+    "big_crop_name": "Giant Yam",
+    "effects": {
+      "health": 2,
+      "stamina": 3,
+      "buffs": [
+        {
+          "stat": "EnergyRecover",
+          "value": 10,
+          "seconds": 180
+        }
+      ]
+    }
   },
   {
     "seed_id": 2726,
@@ -354,7 +515,11 @@
       "Autumn"
     ],
     "grow_days": 4,
-    "big_crop_name": "Giant Perilla"
+    "big_crop_name": "Giant Perilla",
+    "effects": {
+      "health": 3,
+      "stamina": 5
+    }
   },
   {
     "seed_id": 2728,
@@ -367,7 +532,18 @@
       "Autumn"
     ],
     "grow_days": 3,
-    "big_crop_name": "Giant Onion"
+    "big_crop_name": "Giant Onion",
+    "effects": {
+      "health": 4,
+      "stamina": 6,
+      "buffs": [
+        {
+          "stat": "Defense",
+          "value": 1,
+          "seconds": 150
+        }
+      ]
+    }
   },
   {
     "seed_id": 2729,
@@ -380,7 +556,18 @@
       "Autumn"
     ],
     "grow_days": 9,
-    "big_crop_name": "Giant Chili Pepper"
+    "big_crop_name": "Giant Chili Pepper",
+    "effects": {
+      "health": 3,
+      "stamina": 4,
+      "buffs": [
+        {
+          "stat": "Attack",
+          "value": 2,
+          "seconds": 200
+        }
+      ]
+    }
   },
   {
     "seed_id": 2730,
@@ -393,7 +580,11 @@
       "Autumn"
     ],
     "grow_days": 6,
-    "big_crop_name": "Giant Pumpkin"
+    "big_crop_name": "Giant Pumpkin",
+    "effects": {
+      "health": 12,
+      "stamina": 16
+    }
   },
   {
     "seed_id": 2731,
@@ -406,7 +597,18 @@
       "Autumn"
     ],
     "grow_days": 5,
-    "big_crop_name": "Giant Sweet Potato"
+    "big_crop_name": "Giant Sweet Potato",
+    "effects": {
+      "health": 4,
+      "stamina": 6,
+      "buffs": [
+        {
+          "stat": "Defense",
+          "value": 2,
+          "seconds": 150
+        }
+      ]
+    }
   },
   {
     "seed_id": 2732,
@@ -458,7 +660,18 @@
       "Autumn"
     ],
     "grow_days": 4,
-    "big_crop_name": "Giant Spinach"
+    "big_crop_name": "Giant Spinach",
+    "effects": {
+      "health": 2,
+      "stamina": 2,
+      "buffs": [
+        {
+          "stat": "Attack",
+          "value": 4,
+          "seconds": 200
+        }
+      ]
+    }
   },
   {
     "seed_id": 2736,
@@ -471,7 +684,18 @@
       "Autumn"
     ],
     "grow_days": 5,
-    "big_crop_name": "Giant Carrot"
+    "big_crop_name": "Giant Carrot",
+    "effects": {
+      "health": 4,
+      "stamina": 6,
+      "buffs": [
+        {
+          "stat": "EnergyRecover",
+          "value": 10,
+          "seconds": 180
+        }
+      ]
+    }
   },
   {
     "seed_id": 2737,
@@ -485,7 +709,11 @@
       "Winter"
     ],
     "grow_days": 4,
-    "big_crop_name": "Giant Taro"
+    "big_crop_name": "Giant Taro",
+    "effects": {
+      "health": 8,
+      "stamina": 12
+    }
   },
   {
     "seed_id": 2742,
